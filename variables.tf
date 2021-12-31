@@ -1,7 +1,7 @@
 variable "domain" {}
 
 variable "mx_records" {
-  type = "list"
+  type = list(string)
 
   default = [
     "in1-smtp.messagingengine.com",
