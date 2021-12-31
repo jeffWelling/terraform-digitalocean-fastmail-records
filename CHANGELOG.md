@@ -4,6 +4,7 @@
 
 - Update for latest HCL syntax
 
+
 ## 2.0 - 2018-08-08
 
 - Changed parameter names and default values:
